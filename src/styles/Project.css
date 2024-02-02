@@ -1,0 +1,63 @@
+.portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.project-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: white;
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.app-name {
+    padding: 3px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, .5);
+    border-radius: 5px;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 1.5em;
+}
+
+a:hover {
+    color: var(--turq);
+}
+
+.github {
+    position: relative;
+    display: inline-block;
+}
+
+.github img {
+    height: 30px;
+    width: auto;
+}
+
+.github-tooltip {
+    visibility: hidden;
+    z-index: 1;
+    position: absolute;
+    margin-left: 5px;
+    padding: 2px;
+    background-color: var(--turq);
+    width: 110px;
+    border-radius: 6px;
+    color: black;
+    text-align: center;
+    font-size: .8em;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.github:hover .github-tooltip {
+    visibility: visible;
+    opacity: 1;
+}

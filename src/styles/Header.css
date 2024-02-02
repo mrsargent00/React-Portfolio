@@ -1,0 +1,38 @@
+header {
+    display: flex;
+    background-color: white;
+  
+    min-width: 100%;
+    flex-direction: column;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    margin: 0;
+    justify-content: center;
+  }
+  
+  .left-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3em;
+  }
+  
+  .left-container img {
+    width: 20vw;
+    /* margin: 25px; */
+  }
+  
+  .right-container {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+  }
+  
+  .right-container img {
+    width: 50vw;
+    margin: 25px;
+  }
