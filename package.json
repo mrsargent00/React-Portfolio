@@ -1,0 +1,19 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "react portfolio for a class assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrsargent00/React-Portfolio.git"
+  },
+  "author": "megan sargent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrsargent00/React-Portfolio/issues"
+  },
+  "homepage": "https://github.com/mrsargent00/React-Portfolio#readme"
+}
