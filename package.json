@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mrsargent00/React-Portfolio/issues"
   },
-  "homepage": "https://github.com/mrsargent00/React-Portfolio#readme"
+  "homepage": "https://github.com/mrsargent00/React-Portfolio#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }

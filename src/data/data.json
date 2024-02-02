@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Workday Scheduler",
+        "thumbnail": "src/assets/thumbnails/Workday.png",
+        "link": "https://mrsargent00.github.io/mod5/",
+        "github": "https://github.com/mrsargent00/mod5"
+    },
+    {
+        "name": "JavaScript Quiz",
+        "thumbnail": "src/assets/thumbnails/JSquiz.png",
+        "link": "https://mrsargent00.github.io/JavaQuiz/",
+        "github": "https://github.com/mrsargent00/JavaQuiz"
+    },
+    {
+        "name": "Country Currency Converter",
+        "thumbnail": "src/assets/thumbnails/Money.png",
+        "link": "https://benrodriguezmoran.github.io/country-curency-converter/",
+        "github": "https://github.com/benrodriguezmoran/country-curency-converter"
+    },
+    {
+        "name": "Password Generator",
+        "thumbnail": "src/assets/thumbnails/PassGen.png",
+        "link": "https://mrsargent00.github.io/Java5/",
+        "github": "https://github.com/mrsargent00/Java5"        
+    },
+    {
+        "name": "Weather App",
+        "thumbnail": "src/assets/thumbnails/Weather.png/",
+        "link": "https://mrsargent00.github.io/weather/",
+        "github": "https://github.com/mrsargent00/weather"
+
+    }
+]
